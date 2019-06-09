@@ -8,7 +8,7 @@ html {
 
 header {
     display: flex;
-    align-items: left;
+    align-items: center;
     justify-content: center;
     flex-direction: column;
     margin: 0 auto;
@@ -21,7 +21,7 @@ h1 {
     font-weight: 300;
     font-size: 2rem;
     line-height: 3rem;
-    text-align: center;
+    text-align: left;
     color: #373734;
 }
 
