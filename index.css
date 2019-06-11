@@ -36,10 +36,8 @@ a {
     h1 {
         text-align: center;
     }
-}
 
-@media screen and (min-width: 1280px) {
     header {
-        max-width: 1280px;
+        max-width: 800px;
     }
 }
