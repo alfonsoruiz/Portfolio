@@ -31,6 +31,10 @@ a {
     border-bottom: 1px solid grey;
 }
 
+a:hover {
+    font-weight: 400;
+}
+
 @media screen and (min-width: 600px) {
 
     h1 {
